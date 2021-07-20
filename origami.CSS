@@ -1,0 +1,85 @@
+.header{
+    background-color: #e70c0c;
+}
+.menue{
+    background-color:#f8f40b;
+}
+.origami{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #0ce7ca;
+}
+.origami1{
+    display: flex;
+    flex-wrap: wrap;                                                                                                                                    
+    justify-content: space-evenly;
+    background-color: #a90ce7;
+}
+body{
+    background-color: #e70c9e;
+}
+a:link{
+    color:white;
+}
+a:visited{
+color:rgb(248, 86, 86);
+}
+
+.cam{
+    position:relative;
+}
+.cam h2 {
+    position:absolute;
+    top: 10%;
+    left:50%;
+    transform:translate(-50,-50);
+}
+
+.tedd{
+    position:relative;
+}
+.tedd h2 {
+    position:absolute;
+    top: 10%;
+    left:50%;
+    transform:translate(-50,-50);
+}
+.cic{
+    position:relative;
+}
+.cic h2 {
+    position:absolute;
+    top: 10%;
+    left:50%;
+    transform:translate(-50,-50);
+}
+
+.pan{
+    position:relative;
+}
+.pan h2 {
+    position:absolute;
+    top: 10%;
+    left:50%;
+    transform:translate(-50,-50);
+}
+.pige{
+    position:relative;
+}
+.pige h2 {
+    position:absolute;
+    top: 10%;
+    left:50%;
+    transform:translate(-50,-50);
+}
+
+.chamel{
+    position:relative;
+}
+.chamel h2 {
+    position:absolute;
+    top: 10%;
+    left:50%;
+    transform:translate(-50,-50);
+}
